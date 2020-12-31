@@ -1,2 +1,5 @@
-# website
-This is the beginning of our glorious evolution
+# Website
+
+We are building a website 
+
+Contributers: Sai Abhishek Raja, Diyane Fernando, Tina Zhou, Harim Park
