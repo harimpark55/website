@@ -1,0 +1,3 @@
+com\example\webapp\MvcConfig.class
+com\example\webapp\WebSecurityConfig.class
+com\example\webapp\WebAppApplication.class
